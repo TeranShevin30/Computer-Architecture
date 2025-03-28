@@ -2,7 +2,7 @@
 .stack 100h
 
 .data
-msg db "hello",10,"hii$"
+msg db "hello",13,"hii$"
 
 .code
 start:
